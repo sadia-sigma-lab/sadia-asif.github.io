@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a PhD student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/).  My research interests lie broadly in Machine Learning, Artificial Intelligence, and Data Valuation. I am particularly focused on developing methods to measure data quality, aiming to make AI and large language models (LLMs) more beneficial for everyone.
 
-I hold a Bachelor's Degree in Electrical Engineering with a minor in Computer Science from th [National University of Sciences and Technology](https://nust.edu.pk/).
+I hold a Bachelor's Degree in Electrical Engineering with a minor in Computer Science from the [National University of Sciences and Technology](https://nust.edu.pk/).
 
 <!-- A data-driven personal website
 ======
